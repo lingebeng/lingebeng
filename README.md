@@ -1,14 +1,5 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
-
-<div align="center">
-  <a href="https://b23.tv/iEJTnPp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lingebeng&show_icons=true&theme=tokyonight" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingebeng&layout=compact&theme=tokyonight" />
-</div>
 
 ## 👋 About Me / 关于我
 
